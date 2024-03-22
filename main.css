@@ -1,0 +1,320 @@
+/* /*body {
+    /* background-color: rgb(51, 185, 185); */
+    /* font-family: 'Times New Roman', Times, serif;
+    color: black;
+    z-index: 1;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiuZ0ik1maoUTng6qckxWS90-OFxeXhBeIIw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(15px);
+    /* position: absolute;
+
+}
+    
+
+.container{
+    width: 100vb;
+    height: 60vh;
+    background-color: blanchedalmond;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5-syE9cfzc4pt9gZFSNR0ZhGXrVtEv51EkA&usqp=CAU");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10vh;
+    padding: 10px;
+    flex-direction: column;
+    z-index: 2;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first{
+    color: rgb(205, 135, 222);
+}
+#joke{
+    color: rgb(230, 75, 24);
+    text-transform: capitalize;
+}  */
+/* .bulbcontainer{
+    height: 341px;
+    width: 341px;
+    background-color: yellow;
+    box-shadow: 10px 10px 5px 0px rgb(126, 126, 34);
+    border-radius: 50%;
+    margin: auto;
+}
+.bulb{
+    background-color: yellow;
+
+/* } */
+/* button{
+    background-color: rgb(222, 92, 27);
+}
+#text,#healthbar{
+    /* margin-left: 50%; */
+    /* background-color: black;
+    width:50%;
+    height: 25px;
+    color:white;
+    border: 1px solid white;
+} */
+/* .container{
+    display: flex;
+    justify-content: space-around;
+}
+body,html{ */
+    /* width: 100%;
+    height: 100%;
+    background-color: rgb(7, 7, 67);
+}
+.outer {
+    border:2px solid rgb(188, 33, 33);
+    padding: 50px 50px; */
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap:40px; */
+/* }  */
+/* #homebuttons,#att{
+    display: flex;
+    justify-content: space-around;
+    gap: 200px;
+} */
+/* .input-container{
+    display: flex;
+    flex-direction: column;
+} */
+
+
+/* PALINDROME CHECKER */
+
+
+
+
+/*body{
+    background-color: blueviolet;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(26, 11, 40);
+    width:600px;
+    height: 300px;
+    border-radius: 10px;
+    margin: auto;
+    gap: 10px;
+}
+#inputValue{
+    font-size: 3vh;
+    color: black;
+    height:50px;
+}
+h2{
+    color: aqua;
+}
+input[type="text"]{
+    width: 100%;
+    box-sizing: border-box;
+}
+#outertext{
+    background-color: rgb(16, 114, 59);
+    width:560px;
+    height: 200px;
+    font-size: 4vh;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: auto;
+}
+h1{
+    margin-left: auto;
+    color: white;
+}
+#inputfield{
+    display: flex;
+    gap:10px;
+}
+#check{
+    width:100px;
+    height:50px;
+    background-color: rgb(216, 23, 223);
+}
+input:hover{
+    border: 2px solid black;
+    box-shadow: 3px 2px 5px 0px white;
+}
+#text{
+    color: white;
+}*/
+
+
+
+
+/* END OF PALINDROME CHECKR */
+
+
+
+
+
+
+
+/* START OF TODO LIST*/
+
+
+/* .hidden{
+    display: none;
+} */
+
+
+
+
+
+
+
+
+/* END OF TODO LIST*/
+
+
+
+
+
+/*ROMAN NUMBER CONVERTE*/
+
+/*#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#input-field{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border: 1px solid gray;
+    width: 600px;
+    height: 300px;
+    background-color: rgb(8, 3, 28);
+    
+}
+h1{
+    text-align: center;
+}
+body,html{
+    background-color: rgb(39, 39, 71);
+    color: white;
+}
+input{
+    background-color: black;
+    width: 300px;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+}
+input:hover{
+    border: 2px solid blue;;
+}
+button{
+    background-color: rgb(203, 154, 64);
+    height: 35px;
+    font-size: 20px;
+}
+button:hover{
+    box-shadow: 1px 1px 2px 0px red;
+}
+#result{
+     background-color: rgb(47, 4, 12); 
+    width:300px;
+    height: 30px;
+    text-align: center;
+    padding: 10px;
+    color: rgba(252, 246, 246, 0.403);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+.hidden{
+    display: none;
+}*/
+
+
+
+
+
+/* STAR OF NUMBER SORTER*/
+
+
+/*
+span{
+    width: 40px;
+   font-weight: bold;
+   color: white;
+    text-align: center;
+    height: auto;
+    background-color: blueviolet;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    flex-direction: column;
+}
+#output,#select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-size: clamp(30px,20px,10px);
+}
+h1,h2{
+    text-align: center;
+    font-size: clamp(50px,20px,10px);
+    color: white;
+}
+body,html{
+    background-color: rgb(62, 62, 144);
+}
+select{
+    width: 100px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 40px;
+    font-size: clamp(30px,20px,10px);
+}
+#flex{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 30px;
+    box-shadow: 20px 20px 60px #00000038 inset -20px -20px 60px #ffffff64 ;
+}
+
+*/
+
+
+/*END OF NUMBER SORTER*/
+
+
+
+
+
+
+
+
+
+
+
+
